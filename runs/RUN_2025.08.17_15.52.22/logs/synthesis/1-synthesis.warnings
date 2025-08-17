@@ -1,0 +1,14 @@
+Warning: Replacing memory \fifo with list of registers. See /home/prormrxcn/OpenLane/designs/fifo/src/fifo.v:65
+ABC: Warning: Detected 2 multi-output gates (for example, "sky130_fd_sc_hd__fa_1").
+Warning: Wire fifo.\full is used but has no driver.
+Warning: Wire fifo.\error is used but has no driver.
+Warning: Wire fifo.\empty is used but has no driver.
+Warning: Wire fifo.\data_out [7] is used but has no driver.
+Warning: Wire fifo.\data_out [6] is used but has no driver.
+Warning: Wire fifo.\data_out [5] is used but has no driver.
+Warning: Wire fifo.\data_out [4] is used but has no driver.
+Warning: Wire fifo.\data_out [3] is used but has no driver.
+Warning: Wire fifo.\data_out [2] is used but has no driver.
+Warning: Wire fifo.\data_out [1] is used but has no driver.
+Warning: Wire fifo.\data_out [0] is used but has no driver.
+Warnings: 12 unique messages, 12 total

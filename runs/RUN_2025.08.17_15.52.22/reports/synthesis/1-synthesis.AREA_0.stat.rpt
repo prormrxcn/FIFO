@@ -1,0 +1,46 @@
+
+61. Printing statistics.
+
+=== fifo ===
+
+   Number of wires:                636
+   Number of wire bits:            650
+   Number of public wires:         147
+   Number of public wire bits:     161
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                638
+     sky130_fd_sc_hd__a21bo_2        1
+     sky130_fd_sc_hd__a21boi_2       2
+     sky130_fd_sc_hd__a21o_2         8
+     sky130_fd_sc_hd__a21oi_2        3
+     sky130_fd_sc_hd__a221o_2       16
+     sky130_fd_sc_hd__a22o_2        42
+     sky130_fd_sc_hd__and2_2         6
+     sky130_fd_sc_hd__and2b_2        2
+     sky130_fd_sc_hd__and3_2         1
+     sky130_fd_sc_hd__and4_2        10
+     sky130_fd_sc_hd__and4b_2       12
+     sky130_fd_sc_hd__and4bb_2       6
+     sky130_fd_sc_hd__buf_1        174
+     sky130_fd_sc_hd__dfrtp_2       19
+     sky130_fd_sc_hd__dfxtp_2      128
+     sky130_fd_sc_hd__inv_2         22
+     sky130_fd_sc_hd__mux2_2       136
+     sky130_fd_sc_hd__nand2_2        1
+     sky130_fd_sc_hd__nor2_2         6
+     sky130_fd_sc_hd__nor3_2         1
+     sky130_fd_sc_hd__nor4_2         1
+     sky130_fd_sc_hd__nor4b_2        3
+     sky130_fd_sc_hd__o21a_2         1
+     sky130_fd_sc_hd__o2bb2a_2       1
+     sky130_fd_sc_hd__o31a_2         8
+     sky130_fd_sc_hd__or2_2          9
+     sky130_fd_sc_hd__or3_2          1
+     sky130_fd_sc_hd__or4_2          9
+     sky130_fd_sc_hd__xnor2_2        6
+     sky130_fd_sc_hd__xor2_2         3
+
+   Chip area for module '\fifo': 7099.308800
+

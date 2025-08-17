@@ -1,0 +1,1 @@
+lvs {/home/prormrxcn/OpenLane/designs/fifo/runs/RUN_2025.08.17_15.52.22/results/signoff/fifo.spice fifo} {/home/prormrxcn/OpenLane/designs/fifo/runs/RUN_2025.08.17_15.52.22/tmp/signoff/36-fifo.pnl.v fifo} /home/prormrxcn/.ciel/sky130A/libs.tech/netgen/sky130A_setup.tcl /home/prormrxcn/OpenLane/designs/fifo/runs/RUN_2025.08.17_15.52.22/logs/signoff/39-fifo.lef.lvs.log -json

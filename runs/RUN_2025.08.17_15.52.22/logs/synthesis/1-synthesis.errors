@@ -1,0 +1,4 @@
+    56/75: $0\error[0:0]
+Creating register for signal `\fifo.\error' using process `\fifo.$proc$/home/prormrxcn/OpenLane/designs/fifo/src/fifo.v:47$16'.
+ABC: Error: The network is combinational.
+Warning: Wire fifo.\error is used but has no driver.

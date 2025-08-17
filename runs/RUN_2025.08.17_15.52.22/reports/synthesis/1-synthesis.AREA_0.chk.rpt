@@ -1,0 +1,15 @@
+
+60. Executing CHECK pass (checking for obvious problems).
+Checking module fifo...
+Warning: Wire fifo.\full is used but has no driver.
+Warning: Wire fifo.\error is used but has no driver.
+Warning: Wire fifo.\empty is used but has no driver.
+Warning: Wire fifo.\data_out [7] is used but has no driver.
+Warning: Wire fifo.\data_out [6] is used but has no driver.
+Warning: Wire fifo.\data_out [5] is used but has no driver.
+Warning: Wire fifo.\data_out [4] is used but has no driver.
+Warning: Wire fifo.\data_out [3] is used but has no driver.
+Warning: Wire fifo.\data_out [2] is used but has no driver.
+Warning: Wire fifo.\data_out [1] is used but has no driver.
+Warning: Wire fifo.\data_out [0] is used but has no driver.
+Found and reported 11 problems.

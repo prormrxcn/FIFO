@@ -1,0 +1,12 @@
+%Warning-VARHIDDEN: /home/prormrxcn/OpenLane/designs/fifo/src/fifo.v:34:15: Declaration of signal hides declaration in upper scope: 'fifo'
+   34 |     reg [7:0] fifo [0:15];
+      |               ^~~~
+                    /home/prormrxcn/OpenLane/designs/fifo/src/fifo.v:22:8: ... Location of original declaration
+   22 | module fifo(
+      |        ^~~~
+                    ... For warning description see https://verilator.org/warn/VARHIDDEN?v=5.009
+                    ... Use "/* verilator lint_off VARHIDDEN */" and lint_on around source to disable this message.
+%Warning-UNUSEDSIGNAL: /home/prormrxcn/OpenLane/designs/fifo/src/fifo.v:45:16: Signal is not used: 'count'
+                                                                             : ... In instance fifo
+   45 |     wire [4:0] count = (head >= tail) ? (head - tail) : (16 + head - tail);
+      |                ^~~~~

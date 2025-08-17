@@ -1,0 +1,197 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1755446075
+<< obsli1 >>
+rect 1104 2159 31832 32657
+<< obsm1 >>
+rect 14 2128 31910 32688
+<< metal2 >>
+rect 1306 34318 1362 35118
+rect 7102 34318 7158 35118
+rect 12898 34318 12954 35118
+rect 18694 34318 18750 35118
+rect 24490 34318 24546 35118
+rect 30286 34318 30342 35118
+rect 18 0 74 800
+rect 5814 0 5870 800
+rect 11610 0 11666 800
+rect 17406 0 17462 800
+rect 23202 0 23258 800
+rect 28998 0 29054 800
+<< obsm2 >>
+rect 20 34262 1250 34318
+rect 1418 34262 7046 34318
+rect 7214 34262 12842 34318
+rect 13010 34262 18638 34318
+rect 18806 34262 24434 34318
+rect 24602 34262 30230 34318
+rect 30398 34262 31906 34318
+rect 20 856 31906 34262
+rect 130 734 5758 856
+rect 5926 734 11554 856
+rect 11722 734 17350 856
+rect 17518 734 23146 856
+rect 23314 734 28942 856
+rect 29110 734 31906 856
+<< metal3 >>
+rect 32174 31968 32974 32088
+rect 0 30608 800 30728
+rect 32174 25848 32974 25968
+rect 0 24488 800 24608
+rect 32174 19728 32974 19848
+rect 0 18368 800 18488
+rect 32174 13608 32974 13728
+rect 0 12248 800 12368
+rect 32174 7488 32974 7608
+rect 0 6128 800 6248
+rect 32174 1368 32974 1488
+<< obsm3 >>
+rect 800 32168 32174 32673
+rect 800 31888 32094 32168
+rect 800 30808 32174 31888
+rect 880 30528 32174 30808
+rect 800 26048 32174 30528
+rect 800 25768 32094 26048
+rect 800 24688 32174 25768
+rect 880 24408 32174 24688
+rect 800 19928 32174 24408
+rect 800 19648 32094 19928
+rect 800 18568 32174 19648
+rect 880 18288 32174 18568
+rect 800 13808 32174 18288
+rect 800 13528 32094 13808
+rect 800 12448 32174 13528
+rect 880 12168 32174 12448
+rect 800 7688 32174 12168
+rect 800 7408 32094 7688
+rect 800 6328 32174 7408
+rect 880 6048 32174 6328
+rect 800 1568 32174 6048
+rect 800 1395 32094 1568
+<< metal4 >>
+rect 4168 2128 4568 32688
+rect 4908 2128 5308 32688
+rect 10168 2128 10568 32688
+rect 10908 2128 11308 32688
+rect 16168 2128 16568 32688
+rect 16908 2128 17308 32688
+rect 22168 2128 22568 32688
+rect 22908 2128 23308 32688
+rect 28168 2128 28568 32688
+rect 28908 2128 29308 32688
+<< obsm4 >>
+rect 9995 2483 10088 31925
+rect 10648 2483 10828 31925
+rect 11388 2483 16088 31925
+rect 16648 2483 16828 31925
+rect 17388 2483 22088 31925
+rect 22648 2483 22828 31925
+rect 23388 2483 27909 31925
+<< metal5 >>
+rect 1056 30046 31880 30446
+rect 1056 29306 31880 29706
+rect 1056 24046 31880 24446
+rect 1056 23306 31880 23706
+rect 1056 18046 31880 18446
+rect 1056 17306 31880 17706
+rect 1056 12046 31880 12446
+rect 1056 11306 31880 11706
+rect 1056 6046 31880 6446
+rect 1056 5306 31880 5706
+<< labels >>
+rlabel metal4 s 4908 2128 5308 32688 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal4 s 10908 2128 11308 32688 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal4 s 16908 2128 17308 32688 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal4 s 22908 2128 23308 32688 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal4 s 28908 2128 29308 32688 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal5 s 1056 6046 31880 6446 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal5 s 1056 12046 31880 12446 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal5 s 1056 18046 31880 18446 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal5 s 1056 24046 31880 24446 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal5 s 1056 30046 31880 30446 6 VGND
+port 1 nsew ground bidirectional
+rlabel metal4 s 4168 2128 4568 32688 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal4 s 10168 2128 10568 32688 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal4 s 16168 2128 16568 32688 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal4 s 22168 2128 22568 32688 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal4 s 28168 2128 28568 32688 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal5 s 1056 5306 31880 5706 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal5 s 1056 11306 31880 11706 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal5 s 1056 17306 31880 17706 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal5 s 1056 23306 31880 23706 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal5 s 1056 29306 31880 29706 6 VPWR
+port 2 nsew power bidirectional
+rlabel metal3 s 32174 31968 32974 32088 6 clk
+port 3 nsew signal input
+rlabel metal3 s 0 30608 800 30728 6 data_in[0]
+port 4 nsew signal input
+rlabel metal2 s 28998 0 29054 800 6 data_in[1]
+port 5 nsew signal input
+rlabel metal3 s 0 6128 800 6248 6 data_in[2]
+port 6 nsew signal input
+rlabel metal3 s 0 18368 800 18488 6 data_in[3]
+port 7 nsew signal input
+rlabel metal2 s 7102 34318 7158 35118 6 data_in[4]
+port 8 nsew signal input
+rlabel metal2 s 12898 34318 12954 35118 6 data_in[5]
+port 9 nsew signal input
+rlabel metal2 s 30286 34318 30342 35118 6 data_in[6]
+port 10 nsew signal input
+rlabel metal3 s 32174 7488 32974 7608 6 data_in[7]
+port 11 nsew signal input
+rlabel metal2 s 23202 0 23258 800 6 data_out[0]
+port 12 nsew signal output
+rlabel metal2 s 18 0 74 800 6 data_out[1]
+port 13 nsew signal output
+rlabel metal2 s 5814 0 5870 800 6 data_out[2]
+port 14 nsew signal output
+rlabel metal3 s 0 12248 800 12368 6 data_out[3]
+port 15 nsew signal output
+rlabel metal3 s 32174 1368 32974 1488 6 data_out[4]
+port 16 nsew signal output
+rlabel metal2 s 11610 0 11666 800 6 data_out[5]
+port 17 nsew signal output
+rlabel metal3 s 32174 19728 32974 19848 6 data_out[6]
+port 18 nsew signal output
+rlabel metal3 s 32174 25848 32974 25968 6 data_out[7]
+port 19 nsew signal output
+rlabel metal2 s 18694 34318 18750 35118 6 empty
+port 20 nsew signal output
+rlabel metal2 s 24490 34318 24546 35118 6 error
+port 21 nsew signal output
+rlabel metal2 s 17406 0 17462 800 6 full
+port 22 nsew signal output
+rlabel metal3 s 0 24488 800 24608 6 pop
+port 23 nsew signal input
+rlabel metal2 s 1306 34318 1362 35118 6 push
+port 24 nsew signal input
+rlabel metal3 s 32174 13608 32974 13728 6 rst
+port 25 nsew signal input
+<< properties >>
+string FIXED_BBOX 0 0 32974 35118
+string LEFclass BLOCK
+string LEFview TRUE
+string GDS_END 2372832
+string GDS_FILE /home/prormrxcn/OpenLane/designs/fifo/runs/RUN_2025.08.17_15.52.22/results/signoff/fifo.magic.gds
+string GDS_START 356038
+<< end >>
+
