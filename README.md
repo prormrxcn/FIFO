@@ -17,14 +17,14 @@
 
 ***
 
-#  Description
+# 📝 Description
 
 This project implements a 16-depth FIFO (First-In First-Out) memory in Verilog.
 The FIFO supports push, pop, and simultaneous push+pop operations with overflow/underflow error handling.
 
 ***
 
-# Features
+# ⚙️ Features
 
 - 8-bit wide data input/output
 
@@ -40,7 +40,7 @@ The FIFO supports push, pop, and simultaneous push+pop operations with overflow/
 
 ***
 
-#  Verilog Code
+#  🔧 Verilog Code
 
 ```
 
@@ -137,13 +137,13 @@ endmodule
 
 ***
 
-# Testbench
+# 🧪 Testbench
 
 A testbench is included to validate the push/pop operations and error conditions.
 
 ***
 
-# Status
+# ✅ Status
 
 - RTL Design
 
